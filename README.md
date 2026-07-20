@@ -163,9 +163,9 @@ We welcome improvements and collaborations!
 
 ## 📬 Contact
 
-**Sachin Loddiya Karthik**
-[GitHub](https://github.com/SachinLoddiyaKarthik)
-[LinkedIn](https://www.linkedin.com/in/sachin-lk/)
+**Hardik Pawankumar Mahto**
+[GitHub](https://github.com/Hardikmahto)
+[LinkedIn](https://www.linkedin.com/in/hardik-mahto-684334218/)
 
 ---
 
